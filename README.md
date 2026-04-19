@@ -1,12 +1,28 @@
 # tomodachi-ltd-image-prepper
-# tomodachi-image-prepper
 
 A basic command line tool that:
 
+- Converts the image to .PNG format
 - Removes the images background
 - Resizes the result to fit within `512x512`
 - Centers it on a transparent `512x512` canvas
 - Saves a `*_processed.png` next to the script
+
+The image can then be used with [LTD Toolkit](https://github.com/MadMax1960/LivingTheDreamToolkit)
+
+For BEST results:
+- Make sure there is only one main subject in the image. No logos or watermarks.
+- Use clean, high contrast images for input
+- Using higher resolution images will net better results than lower resolution images
+- Avoid busy backgrounds/tricky details (hair, fur, foliage, crowds, chains/fences, etc)
+
+This should work with the following image formats:
+- PNG
+- JPEG/JPG
+- WEBP
+- BMP
+- TIFF/TIF
+- Gif (Typically uses the first frame, animated gifs aren't saved with animation in the final output)
 
 ## Requirements
 
