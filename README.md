@@ -1,4 +1,4 @@
-# tomodachi-ltd-image-prepper
+# Tomodachi LTD Toolkit Image Prepper
 
 A basic command line tool that:
 
