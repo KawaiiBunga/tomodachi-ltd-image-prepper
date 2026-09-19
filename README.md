@@ -55,4 +55,5 @@ Output:
 - A new file named `<original_name>_processed.png` will be created in the project folder.
 
 
-
+## Like what I do?
+I love what I do and want to keep sharing it with the world. You can directly support me and my projects here: https://ko-fi.com/kawaiibunga
